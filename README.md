@@ -1,5 +1,6 @@
 # developer_youtube
 개발 관련 유튜브를 정리합니다.
+PR 환영합니다 ☺️
 (SWIFT, Flutter, ROR)
 
 # SWIFT 스위프트
