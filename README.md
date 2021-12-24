@@ -75,6 +75,8 @@ https://www.youtube.com/channel/UCSEOUzkGNCT_29EU_vnBYjg
 
 ## Contributors ✨
 
+레포지토리에 기여해 주신 분입니다. 제보, PR 언제나 환영합니다.
+
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
