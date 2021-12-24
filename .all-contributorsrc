@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "YangChoi",
+      "name": "YangChoi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48708746?v=4",
+      "profile": "https://github.com/YangChoi",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "developer_youtube",
+  "projectOwner": "mushsong",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
