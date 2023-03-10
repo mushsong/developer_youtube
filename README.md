@@ -20,6 +20,14 @@ https://www.youtube.com/channel/UCM8wseo6DkA-D7yGlCrcrwA
 https://www.youtube.com/channel/UCutO2H_AVmWHbzvE92rpxjA
 
 
+# PYTHON 파이썬
+
+나도코딩
+https://www.youtube.com/@nadocoding
+
+
+
+
 # REACT 리액트
 
 코딩앙마
