@@ -25,6 +25,9 @@ https://www.youtube.com/channel/UCutO2H_AVmWHbzvE92rpxjA
 나도코딩
 https://www.youtube.com/@nadocoding
 
+소놀코딩_Sonol Coding
+https://www.youtube.com/@SONOL_FUN/featured
+
 
 
 
