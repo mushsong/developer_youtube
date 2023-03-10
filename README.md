@@ -71,7 +71,7 @@ https://www.youtube.com/channel/UC_jdHCSOKZ66kQBwPp2CAgg
 노마드 코더 Nomad Coders
 https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
 
-드림코딩 by 엘리
+드림코딩
 https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w
 
 인프런 - 지식을 배우고 나눠요
